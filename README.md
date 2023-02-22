@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @suman660
+- 👋 Hi, I’m @suman
 - 👀 I’m interested in tranings
 - 🌱 I’m currently learning clould technologies
 - 💞️ I’m looking to collaborate on ..
